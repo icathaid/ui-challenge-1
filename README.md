@@ -14,6 +14,11 @@ This is an independent project, but your are free to collaborate with your class
 ### Timebox : 2 - 3 Hours 
 
 ---
+~ 1 hour
+got the breakpoint set and the html structure (i think) set up and working on the mobile side, going to start coding out the rules for the desktop side.
+
+There is a small gap between my e and f, and g and h elements that I can't seem to get rid of no matter where I set the margins.  Might have something to do with the borders.
+
 
 **GitHub Repository & Project Setup**
 
