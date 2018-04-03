@@ -44,9 +44,67 @@ body {
 }
 @media only screen and (min-width: 800px){
     body {
+        display: inline-block;
         background-color: blue;
         width: 960px;
-
+        text-align: center;
+        margin: 0;
     }
+    #container {
+        display: inline-block;
+        width: 400px;
+    }
+    #a {
+        display: inline-block;
+        width: 100%;
+        background-color: yellow;
+        color: green;
+        border-style: solid;
+        border-width: 5px;
+        border-color: blue;
+    }
+    #b {
+        display: inline-block;
+        width: 200px;
+        height: 131%;
+        float: left;
+        border-style: solid;
+        border-color: pink;
+        border-width: 5px;
+        background-color: purple;
+        color: blue;
+    }
+    #c, #d {
+        display: inline-block;
+        float: left;
+        width: 38%;
+        height: 200px;
+        background-color: green;
+        color: yellow;
+        border-style: solid:
+        border-width: 5px;
+        border-color: beige;
+    }
+    #e, #f, #g, #h {
+        display: inline-block;
+        float: left;
+        width: 38%;
+        height: 250px;
+        background-color: orange;
+        color: purple;
+        border-style: solid;
+        border-color: green;
+        border-width: 5px;
+    }
+    #i {
+        display: inline-block;
+        width: 77%;
+        background-color: tomato;
+        color: gold;
+        border-style: solid;
+        border-width: 5px;
+        border-color: black;
+    }
+
 }
 
