@@ -18,6 +18,14 @@ This is an independent project, but your are free to collaborate with your class
 got the breakpoint set and the html structure (i think) set up and working on the mobile side, going to start coding out the rules for the desktop side.
 
 There is a small gap between my e and f, and g and h elements that I can't seem to get rid of no matter where I set the margins.  Might have something to do with the borders.
+    It only shows up on the mobile side.
+
+It seems like there is a good way to structure the html/css to avoid repeated code for the mobile side that doesn't work on the desktop side (or vice versa).  Given the timebox, I'm just going to code everything out the long way for the desktop side.  I should have spent more time planning this out on paper but on a campus with enough processing power to put a satellite in orbit, I can't find a pencil anywhere.
+
+~ 2 hours
+got it working on the desktop side as long as the window is maximized.  Setting a width between 800 and 960 breaks everything.  It has something to do with the block-level elements and their containers because it starts putting things on new lines.
+
+
 
 
 **GitHub Repository & Project Setup**
