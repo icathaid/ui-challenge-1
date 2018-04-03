@@ -25,6 +25,8 @@ It seems like there is a good way to structure the html/css to avoid repeated co
 ~ 2 hours
 got it working on the desktop side as long as the window is maximized.  Setting a width between 800 and 960 breaks everything.  It has something to do with the block-level elements and their containers because it starts putting things on new lines.
 
+~ 2.5 hours
+...found my pencil.
 
 
 
